@@ -1,6 +1,6 @@
+# buffer combinations for citric acid and sodium phosphate
+# http://www.sigmaaldrich.com/life-science/core-bioreagents/biological-buffers/learning-center/buffer-reference-center.html#citric
 # pH | ml 0.1M-citric acid | ml 0.2M Na2HPO4
-2.6 89.10 10.90
-2.8 84.15 15.85
 3.0 79.45 20.55
 3.2 75.30 24.70
 3.4 71.50 28.50
